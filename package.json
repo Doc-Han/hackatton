@@ -1,0 +1,19 @@
+{
+  "name": "hackatton",
+  "version": "1.0.0",
+  "description": "Hacking the onedistin pivot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Doc-Han/hackatton.git"
+  },
+  "author": "Han",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Doc-Han/hackatton/issues"
+  },
+  "homepage": "https://github.com/Doc-Han/hackatton#readme"
+}
